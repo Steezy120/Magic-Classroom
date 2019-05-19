@@ -1,0 +1,37 @@
+,LOCATION,ROOM,QUARTER_INDEX,QUARTER,COURSE_ID,COURSE_NUM,SECTION,INSTRUCTOR_LAST,INSTRUCTOR_FIRST,CAPE_ID,QUESTION,SECTION_SIZE,RESPONSE_SIZE,RATING
+8048,LEDDN,AUD  ,9,FA12,CSE,140,755968,Cheng,Chung Kuan,7,Instructor's speech is clear and audible.,217,76,3.013157895
+8050,LEDDN,AUD  ,9,FA12,CSE,140,755968,Cheng,Chung Kuan,9,Lectures hold your attention.,217,76,3.289473684
+8055,LEDDN,AUD  ,9,FA12,CSE,140,755968,Cheng,Chung Kuan,14,Instructor starts and finishes class on time.,217,76,4.302631579
+8064,LEDDN,AUD  ,9,FA12,CSE,140,755968,Cheng,Chung Kuan,25,How often do you attend this course?,217,75,2.786666667
+84662,PCYNH,106,46,FA14,CSE,140,820960,Cheng,Chung Kuan,7,Instructor's speech is clear and audible.,181,125,3.2880000000000003
+84664,PCYNH,106,46,FA14,CSE,140,820960,Cheng,Chung Kuan,9,Lectures hold your attention.,181,125,3.136
+84669,PCYNH,106,46,FA14,CSE,140,820960,Cheng,Chung Kuan,14,Instructor starts and finishes class on time.,181,124,4.3306451610000005
+84678,PCYNH,106,46,FA14,CSE,140,820960,Cheng,Chung Kuan,25,How often do you attend this course?,181,124,2.75
+464531,CENTR,101,13,SP14,CSE,140,809043,Cheng,Chung Kuan,7,Instructor's speech is clear and audible.,266,187,2.807486631
+464533,CENTR,101,13,SP14,CSE,140,809043,Cheng,Chung Kuan,9,Lectures hold your attention.,266,186,2.8924731180000003
+464538,CENTR,101,13,SP14,CSE,140,809043,Cheng,Chung Kuan,14,Instructor starts and finishes class on time.,266,188,4.228723404
+464547,CENTR,101,13,SP14,CSE,140,809043,Cheng,Chung Kuan,25,How often do you attend this course?,266,187,2.561497326
+600157,WLH  ,2005,81,SP17,CSE,140,903747,Cheng,Chung Kuan,7,Instructor's speech is clear and audible.,193,174,3.114942529
+600159,WLH  ,2005,81,SP17,CSE,140,903747,Cheng,Chung Kuan,9,Lectures hold your attention.,193,172,2.9767441860000003
+600164,WLH  ,2005,81,SP17,CSE,140,903747,Cheng,Chung Kuan,14,Instructor starts and finishes class on time.,193,176,4.318181818
+600173,WLH  ,2005,81,SP17,CSE,140,903747,Cheng,Chung Kuan,25,How often do you attend this course?,193,176,2.7784090910000003
+600178,WLH  ,2005,81,SP17,CSE,140,903748,Cheng,Chung Kuan,7,Instructor's speech is clear and audible.,199,179,3.072625698
+600180,WLH  ,2005,81,SP17,CSE,140,903748,Cheng,Chung Kuan,9,Lectures hold your attention.,199,175,2.937142857
+600185,WLH  ,2005,81,SP17,CSE,140,903748,Cheng,Chung Kuan,14,Instructor starts and finishes class on time.,199,175,4.228571429
+600194,WLH  ,2005,81,SP17,CSE,140,903748,Cheng,Chung Kuan,25,How often do you attend this course?,199,176,2.7556818180000002
+654153,PCYNH,106,90,SP18,CSE,140,938609,Cheng,Chung Kuan,7,Instructor's speech is clear and audible.,178,44,3.045454545
+654155,PCYNH,106,90,SP18,CSE,140,938609,Cheng,Chung Kuan,9,Lectures hold your attention.,178,44,2.9090909089999997
+654160,PCYNH,106,90,SP18,CSE,140,938609,Cheng,Chung Kuan,14,Instructor starts and finishes class on time.,178,44,4.3636363639999995
+654169,PCYNH,106,90,SP18,CSE,140,938609,Cheng,Chung Kuan,25,How often do you attend this course?,178,44,2.545454545
+654174,PCYNH,106,90,SP18,CSE,140,938611,Cheng,Chung Kuan,7,Instructor's speech is clear and audible.,142,44,3.0681818180000002
+654176,PCYNH,106,90,SP18,CSE,140,938611,Cheng,Chung Kuan,9,Lectures hold your attention.,142,44,2.727272727
+654181,PCYNH,106,90,SP18,CSE,140,938611,Cheng,Chung Kuan,14,Instructor starts and finishes class on time.,142,43,4.325581395
+654190,PCYNH,106,90,SP18,CSE,140,938611,Cheng,Chung Kuan,25,How often do you attend this course?,142,43,2.604651163
+826336,LEDDN,AUD  ,70,WI16,CSE,140,860981,Cheng,Chung Kuan,7,Instructor's speech is clear and audible.,195,156,2.974358974
+826338,LEDDN,AUD  ,70,WI16,CSE,140,860981,Cheng,Chung Kuan,9,Lectures hold your attention.,195,157,3.0573248410000002
+826343,LEDDN,AUD  ,70,WI16,CSE,140,860981,Cheng,Chung Kuan,14,Instructor starts and finishes class on time.,195,158,4.120253165
+826352,LEDDN,AUD  ,70,WI16,CSE,140,860981,Cheng,Chung Kuan,25,How often do you attend this course?,195,158,2.810126582
+826357,LEDDN,AUD  ,70,WI16,CSE,140,863513,Cheng,Chung Kuan,7,Instructor's speech is clear and audible.,192,142,2.7676056339999997
+826359,LEDDN,AUD  ,70,WI16,CSE,140,863513,Cheng,Chung Kuan,9,Lectures hold your attention.,192,142,2.887323944
+826364,LEDDN,AUD  ,70,WI16,CSE,140,863513,Cheng,Chung Kuan,14,Instructor starts and finishes class on time.,192,143,4.104895105
+826373,LEDDN,AUD  ,70,WI16,CSE,140,863513,Cheng,Chung Kuan,25,How often do you attend this course?,192,142,2.823943662
