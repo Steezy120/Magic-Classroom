@@ -1,0 +1,113 @@
+,LOCATION,ROOM,QUARTER_INDEX,QUARTER,COURSE_ID,COURSE_NUM,SECTION,INSTRUCTOR_LAST,INSTRUCTOR_FIRST,CAPE_ID,QUESTION,SECTION_SIZE,RESPONSE_SIZE,RATING
+8525,PCYNH,109,9,FA12,CSE,30,755935,Ord,Richard,7,Instructor's speech is clear and audible.,169,97,4.845360825
+8527,PCYNH,109,9,FA12,CSE,30,755935,Ord,Richard,9,Lectures hold your attention.,169,97,4.391752577
+8532,PCYNH,109,9,FA12,CSE,30,755935,Ord,Richard,14,Instructor starts and finishes class on time.,169,97,4.587628866
+8533,PCYNH,109,9,FA12,CSE,30,755935,Ord,Richard,15,Instructor is effective in promoting academic integrity.,169,97,4.742268041
+43231,PCYNH,109,11,FA13,CSE,30,785785,Ord,Richard,7,Instructor's speech is clear and audible.,124,45,4.711111111
+43233,PCYNH,109,11,FA13,CSE,30,785785,Ord,Richard,9,Lectures hold your attention.,124,45,4.3555555560000005
+43238,PCYNH,109,11,FA13,CSE,30,785785,Ord,Richard,14,Instructor starts and finishes class on time.,124,45,4.511111111
+43239,PCYNH,109,11,FA13,CSE,30,785785,Ord,Richard,15,Instructor is effective in promoting academic integrity.,124,45,4.6
+43252,PCYNH,109,11,FA13,CSE,30,785788,Ord,Richard,7,Instructor's speech is clear and audible.,183,53,4.6981132080000005
+43254,PCYNH,109,11,FA13,CSE,30,785788,Ord,Richard,9,Lectures hold your attention.,183,52,4.346153846
+43259,PCYNH,109,11,FA13,CSE,30,785788,Ord,Richard,14,Instructor starts and finishes class on time.,183,52,4.557692308
+43260,PCYNH,109,11,FA13,CSE,30,785788,Ord,Richard,15,Instructor is effective in promoting academic integrity.,183,53,4.603773585
+85321,PCYNH,109,46,FA14,CSE,30,817631,Ord,Richard,7,Instructor's speech is clear and audible.,112,39,4.692307692
+85323,PCYNH,109,46,FA14,CSE,30,817631,Ord,Richard,9,Lectures hold your attention.,112,39,4.307692308
+85328,PCYNH,109,46,FA14,CSE,30,817631,Ord,Richard,14,Instructor starts and finishes class on time.,112,39,4.58974359
+85329,PCYNH,109,46,FA14,CSE,30,817631,Ord,Richard,15,Instructor is effective in promoting academic integrity.,112,39,4.641025641000001
+85342,PCYNH,109,46,FA14,CSE,30,817634,Ord,Richard,7,Instructor's speech is clear and audible.,135,38,4.5
+85344,PCYNH,109,46,FA14,CSE,30,817634,Ord,Richard,9,Lectures hold your attention.,135,37,4.135135135
+85349,PCYNH,109,46,FA14,CSE,30,817634,Ord,Richard,14,Instructor starts and finishes class on time.,135,38,4.552631579
+85350,PCYNH,109,46,FA14,CSE,30,817634,Ord,Richard,15,Instructor is effective in promoting academic integrity.,135,38,4.3947368419999995
+428974,LEDDN,AUD  ,7,SP13,CSE,30,777001,Ord,Richard,7,Instructor's speech is clear and audible.,194,39,4.897435897
+428976,LEDDN,AUD  ,7,SP13,CSE,30,777001,Ord,Richard,9,Lectures hold your attention.,194,39,4.179487179
+428981,LEDDN,AUD  ,7,SP13,CSE,30,777001,Ord,Richard,14,Instructor starts and finishes class on time.,194,39,4.512820513
+428982,LEDDN,AUD  ,7,SP13,CSE,30,777001,Ord,Richard,15,Instructor is effective in promoting academic integrity.,194,39,4.615384615
+465165,CENTR,115,13,SP14,CSE,30,809002,Ord,Richard,7,Instructor's speech is clear and audible.,169,57,4.6491228069999995
+465167,CENTR,115,13,SP14,CSE,30,809002,Ord,Richard,9,Lectures hold your attention.,169,57,4.333333333
+465172,CENTR,115,13,SP14,CSE,30,809002,Ord,Richard,14,Instructor starts and finishes class on time.,169,57,4.543859649
+465173,CENTR,115,13,SP14,CSE,30,809002,Ord,Richard,15,Instructor is effective in promoting academic integrity.,169,55,4.472727273
+465186,CENTR,214,13,SP14,CSE,30,809005,Ord,Richard,7,Instructor's speech is clear and audible.,137,45,4.733333333
+465188,CENTR,214,13,SP14,CSE,30,809005,Ord,Richard,9,Lectures hold your attention.,137,45,4.4
+465193,CENTR,214,13,SP14,CSE,30,809005,Ord,Richard,14,Instructor starts and finishes class on time.,137,45,4.6222222219999995
+465194,CENTR,214,13,SP14,CSE,30,809005,Ord,Richard,15,Instructor is effective in promoting academic integrity.,137,45,4.6
+504674,LEDDN,AUD  ,48,SP15,CSE,30,839492,Ord,Richard,7,Instructor's speech is clear and audible.,161,68,4.602941176
+504676,LEDDN,AUD  ,48,SP15,CSE,30,839492,Ord,Richard,9,Lectures hold your attention.,161,68,4.397058824
+504681,LEDDN,AUD  ,48,SP15,CSE,30,839492,Ord,Richard,14,Instructor starts and finishes class on time.,161,68,4.544117647
+504682,LEDDN,AUD  ,48,SP15,CSE,30,839492,Ord,Richard,15,Instructor is effective in promoting academic integrity.,161,67,4.5373134330000005
+504695,LEDDN,AUD  ,48,SP15,CSE,30,839495,Ord,Richard,7,Instructor's speech is clear and audible.,160,67,4.582089552
+504697,LEDDN,AUD  ,48,SP15,CSE,30,839495,Ord,Richard,9,Lectures hold your attention.,160,67,4.23880597
+504702,LEDDN,AUD  ,48,SP15,CSE,30,839495,Ord,Richard,14,Instructor starts and finishes class on time.,160,67,4.492537313
+504703,LEDDN,AUD  ,48,SP15,CSE,30,839495,Ord,Richard,15,Instructor is effective in promoting academic integrity.,160,67,4.47761194
+550453,CENTR,216,71,SP16,CSE,30,867299,Ord,Richard,7,Instructor's speech is clear and audible.,98,43,4.76744186
+550455,CENTR,216,71,SP16,CSE,30,867299,Ord,Richard,9,Lectures hold your attention.,98,43,4.279069767
+550460,CENTR,216,71,SP16,CSE,30,867299,Ord,Richard,14,Instructor starts and finishes class on time.,98,43,4.604651163
+550461,CENTR,216,71,SP16,CSE,30,867299,Ord,Richard,15,Instructor is effective in promoting academic integrity.,98,42,4.6428571430000005
+550474,WLH  ,2001,71,SP16,CSE,30,867305,Ord,Richard,7,Instructor's speech is clear and audible.,359,139,4.776978417
+550476,WLH  ,2001,71,SP16,CSE,30,867305,Ord,Richard,9,Lectures hold your attention.,359,140,4.264285714
+550481,WLH  ,2001,71,SP16,CSE,30,867305,Ord,Richard,14,Instructor starts and finishes class on time.,359,140,4.664285714
+550482,WLH  ,2001,71,SP16,CSE,30,867305,Ord,Richard,15,Instructor is effective in promoting academic integrity.,359,140,4.8142857139999995
+601394,CICC ,101,81,SP17,CSE,30,903674,Ord,Richard,7,Instructor's speech is clear and audible.,191,52,4.807692308
+601396,CICC ,101,81,SP17,CSE,30,903674,Ord,Richard,9,Lectures hold your attention.,191,52,4.115384615
+601401,CICC ,101,81,SP17,CSE,30,903674,Ord,Richard,14,Instructor starts and finishes class on time.,191,52,4.461538462
+601402,CICC ,101,81,SP17,CSE,30,903674,Ord,Richard,15,Instructor is effective in promoting academic integrity.,191,52,4.903846154
+601415,CENTR,115,81,SP17,CSE,30,903678,Ord,Richard,7,Instructor's speech is clear and audible.,103,32,4.90625
+601417,CENTR,115,81,SP17,CSE,30,903678,Ord,Richard,9,Lectures hold your attention.,103,32,4.46875
+601422,CENTR,115,81,SP17,CSE,30,903678,Ord,Richard,14,Instructor starts and finishes class on time.,103,32,4.71875
+601423,CENTR,115,81,SP17,CSE,30,903678,Ord,Richard,15,Instructor is effective in promoting academic integrity.,103,32,4.90625
+655192,PCYNH,106,90,SP18,CSE,30,938548,Ord,Richard,7,Instructor's speech is clear and audible.,192,61,4.475409836
+655194,PCYNH,106,90,SP18,CSE,30,938548,Ord,Richard,9,Lectures hold your attention.,192,61,3.426229508
+655199,PCYNH,106,90,SP18,CSE,30,938548,Ord,Richard,14,Instructor starts and finishes class on time.,192,61,4.2459016389999995
+655200,PCYNH,106,90,SP18,CSE,30,938548,Ord,Richard,15,Instructor is effective in promoting academic integrity.,192,62,4.467741935
+655213,WLH  ,2001,90,SP18,CSE,30,938550,Ord,Richard,7,Instructor's speech is clear and audible.,252,67,4.611940299
+655215,WLH  ,2001,90,SP18,CSE,30,938550,Ord,Richard,9,Lectures hold your attention.,252,67,3.746268657
+655220,WLH  ,2001,90,SP18,CSE,30,938550,Ord,Richard,14,Instructor starts and finishes class on time.,252,66,4.484848485
+655221,WLH  ,2001,90,SP18,CSE,30,938550,Ord,Richard,15,Instructor is effective in promoting academic integrity.,252,67,4.626865672
+697448,CENTR,115,8,WI13,CSE,30,766822,Ord,Richard,7,Instructor's speech is clear and audible.,179,59,4.847457627
+697450,CENTR,115,8,WI13,CSE,30,766822,Ord,Richard,9,Lectures hold your attention.,179,59,4.6610169489999995
+697455,CENTR,115,8,WI13,CSE,30,766822,Ord,Richard,14,Instructor starts and finishes class on time.,179,59,4.728813559
+697456,CENTR,115,8,WI13,CSE,30,766822,Ord,Richard,15,Instructor is effective in promoting academic integrity.,179,59,4.796610169
+734142,WLH  ,2001,12,WI14,CSE,30,797360,Ord,Richard,7,Instructor's speech is clear and audible.,174,57,4.684210526
+734144,WLH  ,2001,12,WI14,CSE,30,797360,Ord,Richard,9,Lectures hold your attention.,174,57,4.473684211
+734149,WLH  ,2001,12,WI14,CSE,30,797360,Ord,Richard,14,Instructor starts and finishes class on time.,174,57,4.578947368
+734150,WLH  ,2001,12,WI14,CSE,30,797360,Ord,Richard,15,Instructor is effective in promoting academic integrity.,174,57,4.6140350880000005
+777463,CENTR,119,47,WI15,CSE,30,828249,Ord,Richard,7,Instructor's speech is clear and audible.,173,58,4.620689655
+777465,CENTR,119,47,WI15,CSE,30,828249,Ord,Richard,9,Lectures hold your attention.,173,58,4.310344828
+777470,CENTR,119,47,WI15,CSE,30,828249,Ord,Richard,14,Instructor starts and finishes class on time.,173,58,4.551724138
+777471,CENTR,119,47,WI15,CSE,30,828249,Ord,Richard,15,Instructor is effective in promoting academic integrity.,173,58,4.637931034
+777484,CENTR,119,47,WI15,CSE,30,828251,Ord,Richard,7,Instructor's speech is clear and audible.,125,46,4.4130434780000005
+777486,CENTR,119,47,WI15,CSE,30,828251,Ord,Richard,9,Lectures hold your attention.,125,46,4.130434783
+777491,CENTR,119,47,WI15,CSE,30,828251,Ord,Richard,14,Instructor starts and finishes class on time.,125,46,4.326086957
+777492,CENTR,119,47,WI15,CSE,30,828251,Ord,Richard,15,Instructor is effective in promoting academic integrity.,125,44,4.295454545
+827029,WLH  ,2001,70,WI16,CSE,30,860909,Ord,Richard,7,Instructor's speech is clear and audible.,92,38,4.684210526
+827031,WLH  ,2001,70,WI16,CSE,30,860909,Ord,Richard,9,Lectures hold your attention.,92,38,4.1578947369999995
+827036,WLH  ,2001,70,WI16,CSE,30,860909,Ord,Richard,14,Instructor starts and finishes class on time.,92,38,4.6315789469999995
+827037,WLH  ,2001,70,WI16,CSE,30,860909,Ord,Richard,15,Instructor is effective in promoting academic integrity.,92,37,4.702702703
+827050,PCYNH,106,70,WI16,CSE,30,860915,Ord,Richard,7,Instructor's speech is clear and audible.,166,57,4.5964912280000005
+827052,PCYNH,106,70,WI16,CSE,30,860915,Ord,Richard,9,Lectures hold your attention.,166,56,4.214285714
+827057,PCYNH,106,70,WI16,CSE,30,860915,Ord,Richard,14,Instructor starts and finishes class on time.,166,56,4.535714286
+827058,PCYNH,106,70,WI16,CSE,30,860915,Ord,Richard,15,Instructor is effective in promoting academic integrity.,166,56,4.714285714
+881925,SOLIS,107,80,WI17,CSE,30,894541,Ord,Richard,7,Instructor's speech is clear and audible.,266,84,4.714285714
+881927,SOLIS,107,80,WI17,CSE,30,894541,Ord,Richard,9,Lectures hold your attention.,266,84,4.2023809519999995
+881932,SOLIS,107,80,WI17,CSE,30,894541,Ord,Richard,14,Instructor starts and finishes class on time.,266,84,4.4880952380000005
+881933,SOLIS,107,80,WI17,CSE,30,894541,Ord,Richard,15,Instructor is effective in promoting academic integrity.,266,83,4.722891566
+881946,CENTR,101,80,WI17,CSE,30,894543,Ord,Richard,7,Instructor's speech is clear and audible.,108,33,4.727272727
+881948,CENTR,101,80,WI17,CSE,30,894543,Ord,Richard,9,Lectures hold your attention.,108,33,4.333333333
+881953,CENTR,101,80,WI17,CSE,30,894543,Ord,Richard,14,Instructor starts and finishes class on time.,108,33,4.606060606000001
+881954,CENTR,101,80,WI17,CSE,30,894543,Ord,Richard,15,Instructor is effective in promoting academic integrity.,108,33,4.848484848
+940966,PETER,108,89,WI18,CSE,30,927460,Ord,Richard,7,Instructor's speech is clear and audible.,126,55,4.6727272730000005
+940968,PETER,108,89,WI18,CSE,30,927460,Ord,Richard,9,Lectures hold your attention.,126,55,4.0
+940973,PETER,108,89,WI18,CSE,30,927460,Ord,Richard,14,Instructor starts and finishes class on time.,126,55,4.527272727
+940974,PETER,108,89,WI18,CSE,30,927460,Ord,Richard,15,Instructor is effective in promoting academic integrity.,126,55,4.6
+940987,SOLIS,107,89,WI18,CSE,30,927462,Ord,Richard,7,Instructor's speech is clear and audible.,121,53,4.622641509
+940989,SOLIS,107,89,WI18,CSE,30,927462,Ord,Richard,9,Lectures hold your attention.,121,52,4.076923077
+940994,SOLIS,107,89,WI18,CSE,30,927462,Ord,Richard,14,Instructor starts and finishes class on time.,121,52,4.557692308
+940995,SOLIS,107,89,WI18,CSE,30,927462,Ord,Richard,15,Instructor is effective in promoting academic integrity.,121,53,4.79245283
+1001974,CENTR,105,99,WI19,CSE,30,961464,Ord,Richard,7,Instructor's speech is clear and audible.,123,35,4.657142857
+1001976,CENTR,105,99,WI19,CSE,30,961464,Ord,Richard,9,Lectures hold your attention.,123,35,4.171428571
+1001981,CENTR,105,99,WI19,CSE,30,961464,Ord,Richard,14,Instructor starts and finishes class on time.,123,35,4.428571429
+1001982,CENTR,105,99,WI19,CSE,30,961464,Ord,Richard,15,Instructor is effective in promoting academic integrity.,123,33,4.484848485
+1001995,WLH  ,2005,99,WI19,CSE,30,961466,Ord,Richard,7,Instructor's speech is clear and audible.,128,34,4.705882353
+1001997,WLH  ,2005,99,WI19,CSE,30,961466,Ord,Richard,9,Lectures hold your attention.,128,34,4.323529412
+1002002,WLH  ,2005,99,WI19,CSE,30,961466,Ord,Richard,14,Instructor starts and finishes class on time.,128,34,4.558823529
+1002003,WLH  ,2005,99,WI19,CSE,30,961466,Ord,Richard,15,Instructor is effective in promoting academic integrity.,128,34,4.7352941180000006

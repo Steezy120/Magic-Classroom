@@ -1,193 +1,49 @@
-,LOCATION,ROOM,QUARTER_INDEX,QUARTER,COURSE_ID,COURSE_NUM,SECTION,INSTRUCTOR_LAST,INSTRUCTOR_FIRST,CAPE_ID,QUESTION,SECTION_SIZE,RESPONSE_SIZE,RATING
-133560,EBU3B,B230 ,56,FA15,CSE,8A,849741,Cao,Yingjun,7,Instructor's speech is clear and audible.,46,40,3.9
-133562,EBU3B,B230 ,56,FA15,CSE,8A,849741,Cao,Yingjun,9,Lectures hold your attention.,46,40,3.925
-133567,EBU3B,B230 ,56,FA15,CSE,8A,849741,Cao,Yingjun,14,Instructor starts and finishes class on time.,46,39,4.512820513
-133568,EBU3B,B230 ,56,FA15,CSE,8A,849741,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,46,39,4.512820513
-133581,EBU3B,B230 ,56,FA15,CSE,8A,849742,Cao,Yingjun,7,Instructor's speech is clear and audible.,49,41,3.8048780489999996
-133583,EBU3B,B230 ,56,FA15,CSE,8A,849742,Cao,Yingjun,9,Lectures hold your attention.,49,41,3.682926829
-133588,EBU3B,B230 ,56,FA15,CSE,8A,849742,Cao,Yingjun,14,Instructor starts and finishes class on time.,49,41,4.43902439
-133589,EBU3B,B230 ,56,FA15,CSE,8A,849742,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,49,40,4.325
-133602,EBU3B,B230 ,56,FA15,CSE,8A,849743,Cao,Yingjun,7,Instructor's speech is clear and audible.,48,39,4.025641026000001
-133604,EBU3B,B230 ,56,FA15,CSE,8A,849743,Cao,Yingjun,9,Lectures hold your attention.,48,39,4.025641026000001
-133609,EBU3B,B230 ,56,FA15,CSE,8A,849743,Cao,Yingjun,14,Instructor starts and finishes class on time.,48,39,4.435897436
-133610,EBU3B,B230 ,56,FA15,CSE,8A,849743,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,48,38,4.6315789469999995
-133623,EBU3B,B230 ,56,FA15,CSE,8A,849746,Cao,Yingjun,7,Instructor's speech is clear and audible.,48,45,4.511111111
-133625,EBU3B,B230 ,56,FA15,CSE,8A,849746,Cao,Yingjun,9,Lectures hold your attention.,48,45,4.3555555560000005
-133630,EBU3B,B230 ,56,FA15,CSE,8A,849746,Cao,Yingjun,14,Instructor starts and finishes class on time.,48,45,4.6222222219999995
-133631,EBU3B,B230 ,56,FA15,CSE,8A,849746,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,48,44,4.568181818
-133644,EBU3B,B230 ,56,FA15,CSE,8A,849747,Cao,Yingjun,7,Instructor's speech is clear and audible.,47,38,4.236842105
-133646,EBU3B,B230 ,56,FA15,CSE,8A,849747,Cao,Yingjun,9,Lectures hold your attention.,47,38,4.184210526
-133651,EBU3B,B230 ,56,FA15,CSE,8A,849747,Cao,Yingjun,14,Instructor starts and finishes class on time.,47,38,4.447368421
-133652,EBU3B,B230 ,56,FA15,CSE,8A,849747,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,47,38,4.421052632
-133665,EBU3B,B230 ,56,FA15,CSE,8A,849748,Cao,Yingjun,7,Instructor's speech is clear and audible.,50,42,4.2619047619999995
-133667,EBU3B,B230 ,56,FA15,CSE,8A,849748,Cao,Yingjun,9,Lectures hold your attention.,50,41,3.9756097560000003
-133672,EBU3B,B230 ,56,FA15,CSE,8A,849748,Cao,Yingjun,14,Instructor starts and finishes class on time.,50,42,4.523809524
-133673,EBU3B,B230 ,56,FA15,CSE,8A,849748,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,50,42,4.523809524
-189033,EBU3B,B230 ,79,FA16,CSE,8A,882229,Cao,Yingjun,7,Instructor's speech is clear and audible.,62,59,4.186440678
-189035,EBU3B,B230 ,79,FA16,CSE,8A,882229,Cao,Yingjun,9,Lectures hold your attention.,62,59,3.966101695
-189040,EBU3B,B230 ,79,FA16,CSE,8A,882229,Cao,Yingjun,14,Instructor starts and finishes class on time.,62,59,4.694915254
-189041,EBU3B,B230 ,79,FA16,CSE,8A,882229,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,62,58,4.7241379310000005
-189054,EBU3B,B230 ,79,FA16,CSE,8A,882230,Cao,Yingjun,7,Instructor's speech is clear and audible.,61,55,4.2909090910000005
-189056,EBU3B,B230 ,79,FA16,CSE,8A,882230,Cao,Yingjun,9,Lectures hold your attention.,61,55,4.163636363999999
-189061,EBU3B,B230 ,79,FA16,CSE,8A,882230,Cao,Yingjun,14,Instructor starts and finishes class on time.,61,55,4.563636364
-189062,EBU3B,B230 ,79,FA16,CSE,8A,882230,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,61,55,4.6
-189075,EBU3B,B230 ,79,FA16,CSE,8A,882231,Cao,Yingjun,7,Instructor's speech is clear and audible.,63,59,4.474576271
-189077,EBU3B,B230 ,79,FA16,CSE,8A,882231,Cao,Yingjun,9,Lectures hold your attention.,63,57,4.1578947369999995
-189082,EBU3B,B230 ,79,FA16,CSE,8A,882231,Cao,Yingjun,14,Instructor starts and finishes class on time.,63,59,4.728813559
-189083,EBU3B,B230 ,79,FA16,CSE,8A,882231,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,63,58,4.75862069
-189096,EBU3B,B230 ,79,FA16,CSE,8A,882232,Cao,Yingjun,7,Instructor's speech is clear and audible.,60,59,4.508474576
-189098,EBU3B,B230 ,79,FA16,CSE,8A,882232,Cao,Yingjun,9,Lectures hold your attention.,60,59,4.288135593
-189103,EBU3B,B230 ,79,FA16,CSE,8A,882232,Cao,Yingjun,14,Instructor starts and finishes class on time.,60,59,4.677966102
-189104,EBU3B,B230 ,79,FA16,CSE,8A,882232,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,60,59,4.745762711999999
-189117,EBU3B,B230 ,79,FA16,CSE,8A,882233,Cao,Yingjun,7,Instructor's speech is clear and audible.,60,55,4.381818182
-189119,EBU3B,B230 ,79,FA16,CSE,8A,882233,Cao,Yingjun,9,Lectures hold your attention.,60,55,4.3272727269999995
-189124,EBU3B,B230 ,79,FA16,CSE,8A,882233,Cao,Yingjun,14,Instructor starts and finishes class on time.,60,55,4.690909091
-189125,EBU3B,B230 ,79,FA16,CSE,8A,882233,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,60,55,4.618181818
-189138,EBU3B,B230 ,79,FA16,CSE,8A,882234,Cao,Yingjun,7,Instructor's speech is clear and audible.,59,57,4.421052632
-189140,EBU3B,B230 ,79,FA16,CSE,8A,882234,Cao,Yingjun,9,Lectures hold your attention.,59,57,4.3684210530000005
-189145,EBU3B,B230 ,79,FA16,CSE,8A,882234,Cao,Yingjun,14,Instructor starts and finishes class on time.,59,57,4.754385965
-189146,EBU3B,B230 ,79,FA16,CSE,8A,882234,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,59,56,4.75
-189285,CENTR,115,79,FA16,CSE,8B,882251,Cao,Yingjun,7,Instructor's speech is clear and audible.,88,76,4.565789474
-189287,CENTR,115,79,FA16,CSE,8B,882251,Cao,Yingjun,9,Lectures hold your attention.,88,75,4.2933333330000005
-189292,CENTR,115,79,FA16,CSE,8B,882251,Cao,Yingjun,14,Instructor starts and finishes class on time.,88,75,4.813333333
-189293,CENTR,115,79,FA16,CSE,8B,882251,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,88,75,4.693333333
-248407,EBU3B,B230 ,88,FA17,CSE,8A,918073,Cao,Yingjun,7,Instructor's speech is clear and audible.,52,44,4.1363636360000005
-248409,EBU3B,B230 ,88,FA17,CSE,8A,918073,Cao,Yingjun,9,Lectures hold your attention.,52,44,3.977272727
-248414,EBU3B,B230 ,88,FA17,CSE,8A,918073,Cao,Yingjun,14,Instructor starts and finishes class on time.,52,45,4.6
-248415,EBU3B,B230 ,88,FA17,CSE,8A,918073,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,52,45,4.555555556
-248428,EBU3B,B230 ,88,FA17,CSE,8A,918074,Cao,Yingjun,7,Instructor's speech is clear and audible.,55,44,4.227272727
-248430,EBU3B,B230 ,88,FA17,CSE,8A,918074,Cao,Yingjun,9,Lectures hold your attention.,55,44,3.9090909089999997
-248435,EBU3B,B230 ,88,FA17,CSE,8A,918074,Cao,Yingjun,14,Instructor starts and finishes class on time.,55,44,4.545454545
-248436,EBU3B,B230 ,88,FA17,CSE,8A,918074,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,55,44,4.568181818
-248449,EBU3B,B230 ,88,FA17,CSE,8A,918075,Cao,Yingjun,7,Instructor's speech is clear and audible.,58,47,4.29787234
-248451,EBU3B,B230 ,88,FA17,CSE,8A,918075,Cao,Yingjun,9,Lectures hold your attention.,58,48,3.958333333
-248456,EBU3B,B230 ,88,FA17,CSE,8A,918075,Cao,Yingjun,14,Instructor starts and finishes class on time.,58,48,4.583333333
-248457,EBU3B,B230 ,88,FA17,CSE,8A,918075,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,58,47,4.659574468
-248470,EBU3B,B230 ,88,FA17,CSE,8A,918085,Cao,Yingjun,7,Instructor's speech is clear and audible.,47,38,4.1578947369999995
-248472,EBU3B,B230 ,88,FA17,CSE,8A,918085,Cao,Yingjun,9,Lectures hold your attention.,47,40,4.1
-248477,EBU3B,B230 ,88,FA17,CSE,8A,918085,Cao,Yingjun,14,Instructor starts and finishes class on time.,47,40,4.325
-248478,EBU3B,B230 ,88,FA17,CSE,8A,918085,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,47,39,4.512820513
-248491,EBU3B,B230 ,88,FA17,CSE,8A,918086,Cao,Yingjun,7,Instructor's speech is clear and audible.,46,39,4.282051282
-248493,EBU3B,B230 ,88,FA17,CSE,8A,918086,Cao,Yingjun,9,Lectures hold your attention.,46,39,3.8717948719999997
-248498,EBU3B,B230 ,88,FA17,CSE,8A,918086,Cao,Yingjun,14,Instructor starts and finishes class on time.,46,40,4.575
-248499,EBU3B,B230 ,88,FA17,CSE,8A,918086,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,46,40,4.6
-248512,EBU3B,B230 ,88,FA17,CSE,8A,918087,Cao,Yingjun,7,Instructor's speech is clear and audible.,46,36,4.166666667
-248514,EBU3B,B230 ,88,FA17,CSE,8A,918087,Cao,Yingjun,9,Lectures hold your attention.,46,36,3.9444444439999997
-248519,EBU3B,B230 ,88,FA17,CSE,8A,918087,Cao,Yingjun,14,Instructor starts and finishes class on time.,46,36,4.5
-248520,EBU3B,B230 ,88,FA17,CSE,8A,918087,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,46,36,4.6388888889999995
-248533,EBU3B,B230 ,88,FA17,CSE,8A,918091,Cao,Yingjun,7,Instructor's speech is clear and audible.,44,38,4.1578947369999995
-248535,EBU3B,B230 ,88,FA17,CSE,8A,918091,Cao,Yingjun,9,Lectures hold your attention.,44,38,4.315789474
-248540,EBU3B,B230 ,88,FA17,CSE,8A,918091,Cao,Yingjun,14,Instructor starts and finishes class on time.,44,38,4.552631579
-248541,EBU3B,B230 ,88,FA17,CSE,8A,918091,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,44,38,4.763157895
-248554,EBU3B,B230 ,88,FA17,CSE,8A,918092,Cao,Yingjun,7,Instructor's speech is clear and audible.,45,41,4.243902439
-248556,EBU3B,B230 ,88,FA17,CSE,8A,918092,Cao,Yingjun,9,Lectures hold your attention.,45,41,4.0975609760000005
-248561,EBU3B,B230 ,88,FA17,CSE,8A,918092,Cao,Yingjun,14,Instructor starts and finishes class on time.,45,42,4.523809524
-248562,EBU3B,B230 ,88,FA17,CSE,8A,918092,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,45,42,4.6428571430000005
-248575,EBU3B,B230 ,88,FA17,CSE,8A,918093,Cao,Yingjun,7,Instructor's speech is clear and audible.,48,40,4.4
-248577,EBU3B,B230 ,88,FA17,CSE,8A,918093,Cao,Yingjun,9,Lectures hold your attention.,48,40,4.125
-248582,EBU3B,B230 ,88,FA17,CSE,8A,918093,Cao,Yingjun,14,Instructor starts and finishes class on time.,48,39,4.564102564
-248583,EBU3B,B230 ,88,FA17,CSE,8A,918093,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,48,39,4.666666667
-311023,CENTR,212,98,FA18,CSE,8B,947784,Cao,Yingjun,7,Instructor's speech is clear and audible.,108,78,4.448717949
-311025,CENTR,212,98,FA18,CSE,8B,947784,Cao,Yingjun,9,Lectures hold your attention.,108,78,4.08974359
-311030,CENTR,212,98,FA18,CSE,8B,947784,Cao,Yingjun,14,Instructor starts and finishes class on time.,108,78,4.717948718
-311031,CENTR,212,98,FA18,CSE,8B,947784,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,108,78,4.653846154
-550626,EBU3B,B230 ,71,SP16,CSE,8A,867231,Cao,Yingjun,7,Instructor's speech is clear and audible.,63,54,4.5
-550628,EBU3B,B230 ,71,SP16,CSE,8A,867231,Cao,Yingjun,9,Lectures hold your attention.,63,54,4.259259258999999
-550633,EBU3B,B230 ,71,SP16,CSE,8A,867231,Cao,Yingjun,14,Instructor starts and finishes class on time.,63,54,4.685185185
-550634,EBU3B,B230 ,71,SP16,CSE,8A,867231,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,63,54,4.703703704
-550647,EBU3B,B230 ,71,SP16,CSE,8A,867232,Cao,Yingjun,7,Instructor's speech is clear and audible.,61,56,4.3571428569999995
-550649,EBU3B,B230 ,71,SP16,CSE,8A,867232,Cao,Yingjun,9,Lectures hold your attention.,61,56,4.303571429
-550654,EBU3B,B230 ,71,SP16,CSE,8A,867232,Cao,Yingjun,14,Instructor starts and finishes class on time.,61,55,4.618181818
-550655,EBU3B,B230 ,71,SP16,CSE,8A,867232,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,61,56,4.625
-550668,EBU3B,B230 ,71,SP16,CSE,8A,867233,Cao,Yingjun,7,Instructor's speech is clear and audible.,64,58,4.1724137930000005
-550670,EBU3B,B230 ,71,SP16,CSE,8A,867233,Cao,Yingjun,9,Lectures hold your attention.,64,58,4.155172414
-550675,EBU3B,B230 ,71,SP16,CSE,8A,867233,Cao,Yingjun,14,Instructor starts and finishes class on time.,64,58,4.6724137930000005
-550676,EBU3B,B230 ,71,SP16,CSE,8A,867233,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,64,57,4.6315789469999995
-550689,PCYNH,109,71,SP16,CSE,8B,867235,Cao,Yingjun,7,Instructor's speech is clear and audible.,112,87,4.390804598
-550691,PCYNH,109,71,SP16,CSE,8B,867235,Cao,Yingjun,9,Lectures hold your attention.,112,87,4.068965517
-550696,PCYNH,109,71,SP16,CSE,8B,867235,Cao,Yingjun,14,Instructor starts and finishes class on time.,112,86,4.465116279
-550697,PCYNH,109,71,SP16,CSE,8B,867235,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,112,87,4.482758621
-550710,PCYNH,106,71,SP16,CSE,8B,867246,Cao,Yingjun,7,Instructor's speech is clear and audible.,155,128,4.3359375
-550712,PCYNH,106,71,SP16,CSE,8B,867246,Cao,Yingjun,9,Lectures hold your attention.,155,127,4.125984252
-550717,PCYNH,106,71,SP16,CSE,8B,867246,Cao,Yingjun,14,Instructor starts and finishes class on time.,155,128,4.5703125
-550718,PCYNH,106,71,SP16,CSE,8B,867246,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,155,128,4.5703125
-655334,EBU3B,B240 ,90,SP18,CSE,8A,938506,Cao,Yingjun,7,Instructor's speech is clear and audible.,51,38,4.473684211
-655336,EBU3B,B240 ,90,SP18,CSE,8A,938506,Cao,Yingjun,9,Lectures hold your attention.,51,38,4.1315789469999995
-655341,EBU3B,B240 ,90,SP18,CSE,8A,938506,Cao,Yingjun,14,Instructor starts and finishes class on time.,51,38,4.552631579
-655342,EBU3B,B240 ,90,SP18,CSE,8A,938506,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,51,38,4.684210526
-655355,EBU3B,B240 ,90,SP18,CSE,8A,938509,Cao,Yingjun,7,Instructor's speech is clear and audible.,44,39,4.282051282
-655357,EBU3B,B240 ,90,SP18,CSE,8A,938509,Cao,Yingjun,9,Lectures hold your attention.,44,38,4.263157895
-655362,EBU3B,B240 ,90,SP18,CSE,8A,938509,Cao,Yingjun,14,Instructor starts and finishes class on time.,44,38,4.526315789
-655363,EBU3B,B240 ,90,SP18,CSE,8A,938509,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,44,38,4.684210526
-655376,EBU3B,B240 ,90,SP18,CSE,8A,939979,Cao,Yingjun,7,Instructor's speech is clear and audible.,50,41,4.0
-655378,EBU3B,B240 ,90,SP18,CSE,8A,939979,Cao,Yingjun,9,Lectures hold your attention.,50,41,3.7317073169999997
-655383,EBU3B,B240 ,90,SP18,CSE,8A,939979,Cao,Yingjun,14,Instructor starts and finishes class on time.,50,40,4.425
-655384,EBU3B,B240 ,90,SP18,CSE,8A,939979,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,50,41,4.487804878
-655397,EBU3B,B240 ,90,SP18,CSE,8A,939980,Cao,Yingjun,7,Instructor's speech is clear and audible.,46,42,4.404761905
-655399,EBU3B,B240 ,90,SP18,CSE,8A,939980,Cao,Yingjun,9,Lectures hold your attention.,46,42,4.3571428569999995
-655404,EBU3B,B240 ,90,SP18,CSE,8A,939980,Cao,Yingjun,14,Instructor starts and finishes class on time.,46,42,4.6428571430000005
-655405,EBU3B,B240 ,90,SP18,CSE,8A,939980,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,46,42,4.785714286
-655418,EBU3B,B240 ,90,SP18,CSE,8A,939981,Cao,Yingjun,7,Instructor's speech is clear and audible.,42,38,4.078947368
-655420,EBU3B,B240 ,90,SP18,CSE,8A,939981,Cao,Yingjun,9,Lectures hold your attention.,42,38,3.710526316
-655425,EBU3B,B240 ,90,SP18,CSE,8A,939981,Cao,Yingjun,14,Instructor starts and finishes class on time.,42,38,4.3684210530000005
-655426,EBU3B,B240 ,90,SP18,CSE,8A,939981,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,42,37,4.351351351
-655439,EBU3B,B240 ,90,SP18,CSE,8A,939982,Cao,Yingjun,7,Instructor's speech is clear and audible.,44,40,4.15
-655441,EBU3B,B240 ,90,SP18,CSE,8A,939982,Cao,Yingjun,9,Lectures hold your attention.,44,40,3.95
-655446,EBU3B,B240 ,90,SP18,CSE,8A,939982,Cao,Yingjun,14,Instructor starts and finishes class on time.,44,40,4.5
-655447,EBU3B,B240 ,90,SP18,CSE,8A,939982,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,44,40,4.65
-655460,PCYNH,106,90,SP18,CSE,8B,938511,Cao,Yingjun,7,Instructor's speech is clear and audible.,122,78,4.205128205
-655462,PCYNH,106,90,SP18,CSE,8B,938511,Cao,Yingjun,9,Lectures hold your attention.,122,77,3.7792207789999996
-655467,PCYNH,106,90,SP18,CSE,8B,938511,Cao,Yingjun,14,Instructor starts and finishes class on time.,122,78,4.615384615
-655468,PCYNH,106,90,SP18,CSE,8B,938511,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,122,78,4.576923077
-827344,CENTR,101,70,WI16,CSE,8B,860856,Cao,Yingjun,7,Instructor's speech is clear and audible.,238,204,4.156862745
-827346,CENTR,101,70,WI16,CSE,8B,860856,Cao,Yingjun,9,Lectures hold your attention.,238,203,4.064039408999999
-827351,CENTR,101,70,WI16,CSE,8B,860856,Cao,Yingjun,14,Instructor starts and finishes class on time.,238,204,4.56372549
-827352,CENTR,101,70,WI16,CSE,8B,860856,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,238,203,4.517241379
-827365,CENTR,101,70,WI16,CSE,8B,863252,Cao,Yingjun,7,Instructor's speech is clear and audible.,250,205,4.16097561
-827367,CENTR,101,70,WI16,CSE,8B,863252,Cao,Yingjun,9,Lectures hold your attention.,250,205,3.9560975610000004
-827372,CENTR,101,70,WI16,CSE,8B,863252,Cao,Yingjun,14,Instructor starts and finishes class on time.,250,203,4.596059113
-827373,CENTR,101,70,WI16,CSE,8B,863252,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,250,203,4.517241379
-882197,CENTR,216,80,WI17,CSE,8B,894512,Cao,Yingjun,7,Instructor's speech is clear and audible.,110,87,4.402298851
-882199,CENTR,216,80,WI17,CSE,8B,894512,Cao,Yingjun,9,Lectures hold your attention.,110,87,4.103448276
-882204,CENTR,216,80,WI17,CSE,8B,894512,Cao,Yingjun,14,Instructor starts and finishes class on time.,110,86,4.627906977
-882205,CENTR,216,80,WI17,CSE,8B,894512,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,110,87,4.632183908
-882218,PCYNH,106,80,WI17,CSE,8B,894514,Cao,Yingjun,7,Instructor's speech is clear and audible.,116,97,4.432989691
-882220,PCYNH,106,80,WI17,CSE,8B,894514,Cao,Yingjun,9,Lectures hold your attention.,116,96,4.270833333
-882225,PCYNH,106,80,WI17,CSE,8B,894514,Cao,Yingjun,14,Instructor starts and finishes class on time.,116,97,4.608247423
-882226,PCYNH,106,80,WI17,CSE,8B,894514,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,116,96,4.635416667
-882239,LEDDN,AUD  ,80,WI17,CSE,8B,895680,Cao,Yingjun,7,Instructor's speech is clear and audible.,161,138,4.34057971
-882241,LEDDN,AUD  ,80,WI17,CSE,8B,895680,Cao,Yingjun,9,Lectures hold your attention.,161,139,4.09352518
-882246,LEDDN,AUD  ,80,WI17,CSE,8B,895680,Cao,Yingjun,14,Instructor starts and finishes class on time.,161,139,4.6618705039999995
-882247,LEDDN,AUD  ,80,WI17,CSE,8B,895680,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,161,138,4.666666667
-941249,CENTR,113,89,WI18,CSE,8B,927416,Cao,Yingjun,7,Instructor's speech is clear and audible.,76,67,4.567164179
-941251,CENTR,113,89,WI18,CSE,8B,927416,Cao,Yingjun,9,Lectures hold your attention.,76,67,4.417910448
-941256,CENTR,113,89,WI18,CSE,8B,927416,Cao,Yingjun,14,Instructor starts and finishes class on time.,76,67,4.76119403
-941257,CENTR,113,89,WI18,CSE,8B,927416,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,76,68,4.7352941180000006
-941270,PCYNH,106,89,WI18,CSE,8B,927418,Cao,Yingjun,7,Instructor's speech is clear and audible.,136,123,4.528455285
-941272,PCYNH,106,89,WI18,CSE,8B,927418,Cao,Yingjun,9,Lectures hold your attention.,136,123,4.25203252
-941277,PCYNH,106,89,WI18,CSE,8B,927418,Cao,Yingjun,14,Instructor starts and finishes class on time.,136,123,4.723577236000001
-941278,PCYNH,106,89,WI18,CSE,8B,927418,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,136,122,4.7295081969999995
-941291,PCYNH,109,89,WI18,CSE,8B,927420,Cao,Yingjun,7,Instructor's speech is clear and audible.,124,105,4.4
-941293,PCYNH,109,89,WI18,CSE,8B,927420,Cao,Yingjun,9,Lectures hold your attention.,124,107,4.009345794
-941298,PCYNH,109,89,WI18,CSE,8B,927420,Cao,Yingjun,14,Instructor starts and finishes class on time.,124,107,4.6355140189999995
-941299,PCYNH,109,89,WI18,CSE,8B,927420,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,124,105,4.638095238
-1002201,CSB  ,2,99,WI19,CSE,8B,961420,Cao,Yingjun,7,Instructor's speech is clear and audible.,81,70,3.942857143
-1002203,CSB  ,2,99,WI19,CSE,8B,961420,Cao,Yingjun,9,Lectures hold your attention.,81,70,3.685714286
-1002208,CSB  ,2,99,WI19,CSE,8B,961420,Cao,Yingjun,14,Instructor starts and finishes class on time.,81,70,4.442857143
-1002209,CSB  ,2,99,WI19,CSE,8B,961420,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,81,71,4.647887324
-1002222,CSB  ,2,99,WI19,CSE,8B,966909,Cao,Yingjun,7,Instructor's speech is clear and audible.,74,64,3.875
-1002224,CSB  ,2,99,WI19,CSE,8B,966909,Cao,Yingjun,9,Lectures hold your attention.,74,64,3.703125
-1002229,CSB  ,2,99,WI19,CSE,8B,966909,Cao,Yingjun,14,Instructor starts and finishes class on time.,74,64,4.546875
-1002230,CSB  ,2,99,WI19,CSE,8B,966909,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,74,64,4.625
-1002243,CSB  ,2,99,WI19,CSE,8B,966910,Cao,Yingjun,7,Instructor's speech is clear and audible.,73,62,4.177419355
-1002245,CSB  ,2,99,WI19,CSE,8B,966910,Cao,Yingjun,9,Lectures hold your attention.,73,63,3.8412698410000004
-1002250,CSB  ,2,99,WI19,CSE,8B,966910,Cao,Yingjun,14,Instructor starts and finishes class on time.,73,63,4.46031746
-1002251,CSB  ,2,99,WI19,CSE,8B,966910,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,73,63,4.619047619
-1002264,CSB  ,2,99,WI19,CSE,8B,966911,Cao,Yingjun,7,Instructor's speech is clear and audible.,63,48,4.104166667
-1002266,CSB  ,2,99,WI19,CSE,8B,966911,Cao,Yingjun,9,Lectures hold your attention.,63,50,4.06
-1002271,CSB  ,2,99,WI19,CSE,8B,966911,Cao,Yingjun,14,Instructor starts and finishes class on time.,63,50,4.52
-1002272,CSB  ,2,99,WI19,CSE,8B,966911,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,63,50,4.54
-1002285,CSB  ,2,99,WI19,CSE,8B,966912,Cao,Yingjun,7,Instructor's speech is clear and audible.,79,60,4.066666667
-1002287,CSB  ,2,99,WI19,CSE,8B,966912,Cao,Yingjun,9,Lectures hold your attention.,79,61,3.901639344
-1002292,CSB  ,2,99,WI19,CSE,8B,966912,Cao,Yingjun,14,Instructor starts and finishes class on time.,79,61,4.31147541
-1002293,CSB  ,2,99,WI19,CSE,8B,966912,Cao,Yingjun,15,Instructor is effective in promoting academic integrity.,79,58,4.465517241000001
+,LOCATION,ROOM,QUARTER_INDEX,QUARTER,COURSE_ID,COURSE_NUM,SECTION,INSTRUCTOR_LAST,INSTRUCTOR_FIRST,SECTION_SIZE,RESPONSE_SIZE,RATING,Question_7,Question_9,Question_14,Question_15
+133560,EBU3B,B230 ,56,FA15,CSE,8A,849741,Cao,Yingjun,46,40,3.9,3.9,3.925,4.512820513,4.512820513
+133581,EBU3B,B230 ,56,FA15,CSE,8A,849742,Cao,Yingjun,49,41,3.8048780489999996,3.8048780489999996,3.682926829,4.43902439,4.325
+133602,EBU3B,B230 ,56,FA15,CSE,8A,849743,Cao,Yingjun,48,39,4.025641026000001,4.025641026000001,4.025641026000001,4.435897436,4.6315789469999995
+133623,EBU3B,B230 ,56,FA15,CSE,8A,849746,Cao,Yingjun,48,45,4.511111111,4.511111111,4.3555555560000005,4.6222222219999995,4.568181818
+133644,EBU3B,B230 ,56,FA15,CSE,8A,849747,Cao,Yingjun,47,38,4.236842105,4.236842105,4.184210526,4.447368421,4.421052632
+133665,EBU3B,B230 ,56,FA15,CSE,8A,849748,Cao,Yingjun,50,42,4.2619047619999995,4.2619047619999995,3.9756097560000003,4.523809524,4.523809524
+189033,EBU3B,B230 ,79,FA16,CSE,8A,882229,Cao,Yingjun,62,59,4.186440678,4.186440678,3.966101695,4.694915254,4.7241379310000005
+189054,EBU3B,B230 ,79,FA16,CSE,8A,882230,Cao,Yingjun,61,55,4.2909090910000005,4.2909090910000005,4.163636363999999,4.563636364,4.6
+189075,EBU3B,B230 ,79,FA16,CSE,8A,882231,Cao,Yingjun,63,59,4.474576271,4.474576271,4.1578947369999995,4.728813559,4.75862069
+189096,EBU3B,B230 ,79,FA16,CSE,8A,882232,Cao,Yingjun,60,59,4.508474576,4.508474576,4.288135593,4.677966102,4.745762711999999
+189117,EBU3B,B230 ,79,FA16,CSE,8A,882233,Cao,Yingjun,60,55,4.381818182,4.381818182,4.3272727269999995,4.690909091,4.618181818
+189138,EBU3B,B230 ,79,FA16,CSE,8A,882234,Cao,Yingjun,59,57,4.421052632,4.421052632,4.3684210530000005,4.754385965,4.75
+189285,CENTR,115,79,FA16,CSE,8B,882251,Cao,Yingjun,88,76,4.565789474,4.565789474,4.2933333330000005,4.813333333,4.693333333
+248407,EBU3B,B230 ,88,FA17,CSE,8A,918073,Cao,Yingjun,52,44,4.1363636360000005,4.1363636360000005,3.977272727,4.6,4.555555556
+248428,EBU3B,B230 ,88,FA17,CSE,8A,918074,Cao,Yingjun,55,44,4.227272727,4.227272727,3.9090909089999997,4.545454545,4.568181818
+248449,EBU3B,B230 ,88,FA17,CSE,8A,918075,Cao,Yingjun,58,47,4.29787234,4.29787234,3.958333333,4.583333333,4.659574468
+248470,EBU3B,B230 ,88,FA17,CSE,8A,918085,Cao,Yingjun,47,38,4.1578947369999995,4.1578947369999995,4.1,4.325,4.512820513
+248491,EBU3B,B230 ,88,FA17,CSE,8A,918086,Cao,Yingjun,46,39,4.282051282,4.282051282,3.8717948719999997,4.575,4.6
+248512,EBU3B,B230 ,88,FA17,CSE,8A,918087,Cao,Yingjun,46,36,4.166666667,4.166666667,3.9444444439999997,4.5,4.6388888889999995
+248533,EBU3B,B230 ,88,FA17,CSE,8A,918091,Cao,Yingjun,44,38,4.1578947369999995,4.1578947369999995,4.315789474,4.552631579,4.763157895
+248554,EBU3B,B230 ,88,FA17,CSE,8A,918092,Cao,Yingjun,45,41,4.243902439,4.243902439,4.0975609760000005,4.523809524,4.6428571430000005
+248575,EBU3B,B230 ,88,FA17,CSE,8A,918093,Cao,Yingjun,48,40,4.4,4.4,4.125,4.564102564,4.666666667
+311023,CENTR,212,98,FA18,CSE,8B,947784,Cao,Yingjun,108,78,4.448717949,4.448717949,4.08974359,4.717948718,4.653846154
+550626,EBU3B,B230 ,71,SP16,CSE,8A,867231,Cao,Yingjun,63,54,4.5,4.5,4.259259258999999,4.685185185,4.703703704
+550647,EBU3B,B230 ,71,SP16,CSE,8A,867232,Cao,Yingjun,61,56,4.3571428569999995,4.3571428569999995,4.303571429,4.618181818,4.625
+550668,EBU3B,B230 ,71,SP16,CSE,8A,867233,Cao,Yingjun,64,58,4.1724137930000005,4.1724137930000005,4.155172414,4.6724137930000005,4.6315789469999995
+550689,PCYNH,109,71,SP16,CSE,8B,867235,Cao,Yingjun,112,87,4.390804598,4.390804598,4.068965517,4.465116279,4.482758621
+550710,PCYNH,106,71,SP16,CSE,8B,867246,Cao,Yingjun,155,128,4.3359375,4.3359375,4.125984252,4.5703125,4.5703125
+655334,EBU3B,B240 ,90,SP18,CSE,8A,938506,Cao,Yingjun,51,38,4.473684211,4.473684211,4.1315789469999995,4.552631579,4.684210526
+655355,EBU3B,B240 ,90,SP18,CSE,8A,938509,Cao,Yingjun,44,39,4.282051282,4.282051282,4.263157895,4.526315789,4.684210526
+655376,EBU3B,B240 ,90,SP18,CSE,8A,939979,Cao,Yingjun,50,41,4.0,4.0,3.7317073169999997,4.425,4.487804878
+655397,EBU3B,B240 ,90,SP18,CSE,8A,939980,Cao,Yingjun,46,42,4.404761905,4.404761905,4.3571428569999995,4.6428571430000005,4.785714286
+655418,EBU3B,B240 ,90,SP18,CSE,8A,939981,Cao,Yingjun,42,38,4.078947368,4.078947368,3.710526316,4.3684210530000005,4.351351351
+655439,EBU3B,B240 ,90,SP18,CSE,8A,939982,Cao,Yingjun,44,40,4.15,4.15,3.95,4.5,4.65
+655460,PCYNH,106,90,SP18,CSE,8B,938511,Cao,Yingjun,122,78,4.205128205,4.205128205,3.7792207789999996,4.615384615,4.576923077
+827344,CENTR,101,70,WI16,CSE,8B,860856,Cao,Yingjun,238,204,4.156862745,4.156862745,4.064039408999999,4.56372549,4.517241379
+827365,CENTR,101,70,WI16,CSE,8B,863252,Cao,Yingjun,250,205,4.16097561,4.16097561,3.9560975610000004,4.596059113,4.517241379
+882197,CENTR,216,80,WI17,CSE,8B,894512,Cao,Yingjun,110,87,4.402298851,4.402298851,4.103448276,4.627906977,4.632183908
+882218,PCYNH,106,80,WI17,CSE,8B,894514,Cao,Yingjun,116,97,4.432989691,4.432989691,4.270833333,4.608247423,4.635416667
+882239,LEDDN,AUD  ,80,WI17,CSE,8B,895680,Cao,Yingjun,161,138,4.34057971,4.34057971,4.09352518,4.6618705039999995,4.666666667
+941249,CENTR,113,89,WI18,CSE,8B,927416,Cao,Yingjun,76,67,4.567164179,4.567164179,4.417910448,4.76119403,4.7352941180000006
+941270,PCYNH,106,89,WI18,CSE,8B,927418,Cao,Yingjun,136,123,4.528455285,4.528455285,4.25203252,4.723577236000001,4.7295081969999995
+941291,PCYNH,109,89,WI18,CSE,8B,927420,Cao,Yingjun,124,105,4.4,4.4,4.009345794,4.6355140189999995,4.638095238
+1002201,CSB  ,2,99,WI19,CSE,8B,961420,Cao,Yingjun,81,70,3.942857143,3.942857143,3.685714286,4.442857143,4.647887324
+1002222,CSB  ,2,99,WI19,CSE,8B,966909,Cao,Yingjun,74,64,3.875,3.875,3.703125,4.546875,4.625
+1002243,CSB  ,2,99,WI19,CSE,8B,966910,Cao,Yingjun,73,62,4.177419355,4.177419355,3.8412698410000004,4.46031746,4.619047619
+1002264,CSB  ,2,99,WI19,CSE,8B,966911,Cao,Yingjun,63,48,4.104166667,4.104166667,4.06,4.52,4.54
+1002285,CSB  ,2,99,WI19,CSE,8B,966912,Cao,Yingjun,79,60,4.066666667,4.066666667,3.901639344,4.31147541,4.465517241000001
