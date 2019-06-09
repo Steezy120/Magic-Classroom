@@ -1,5 +1,6 @@
 # Don't add .csv unless explicitly told
 *.csv
+DATA/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
